@@ -1,2 +1,2 @@
-# THI-T-K-C-S-D-LI-U-H-TH-NG-QU-N-L-KINH-DOANH-C-A-C-NG-TY-HI-P-H-A
+# THIẾT KẾ CƠ SỞ DỮ LIỆU HỆ THỐNG QUẢN LÝ KINH DOANH CỦA CÔNG TY HIỆP HÒA
 Giúp công ty Hiệp Hoà xây dựng một mô hình dữ liệu hoàn chỉnh, hỗ trợ tự động hóa các nghiệp vụ cơ bản của doanh nghiệp. Thông qua việc phân tích bài toán thực tế, dự án không chỉ giúp nâng cao hiệu quả quản lý mà còn tạo nền tảng cho các chức năng mở rộng trong tương lai như lập báo cáo doanh thu tự động, theo dõi tồn kho,...
